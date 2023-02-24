@@ -1,4 +1,5 @@
 # JOGO_CANVAS-3D
+## Status do projeto : FINALIZADO ✅
 
 ### Objetivo do projeto :
   Criar uma jogo em pixelado utilizando o canvas 3D do JavaScript.

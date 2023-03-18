@@ -12,4 +12,7 @@
 
 ### Sobre o projeto :
   Esse projeto, foi realizado em conjunto com mais três integrantes, foi proposto pelo Professor da UFRN, Taniro Rodrigues. 
-  
+
+  ### Mapa do jogo:
+
+  ![](./mapa_2.0_completo.png)

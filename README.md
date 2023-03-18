@@ -4,7 +4,7 @@
 
 
 ### Objetivo do projeto :
-  Criar uma jogo  utilizando o canvas 3D do JavaScript.
+  Criar uma jogo  utilizando a tag canvas 3D do JavaScript.
  
 ### Desenvolvimento :
  Foi produzido um jogo pixelado do zero, criamos um mapa em pixel art e após isso fizemos toda fisica e movimentação de um personagem utilizando o recorte continuo de uma imagem.
